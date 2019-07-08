@@ -14,3 +14,6 @@ The *DOMUS_1Wire_ByAddress* example is ment to run this version. The 1Wire conne
 
 # Progress
 At this point everything works except the temperature sensors. Chaning these for the MAX31855 5v compatible SPi ones might fix the problem. 
+
+# Connections and Schematics
+An initial version of the connections and schematics can be found in the file *Board Connections.fzz*.
