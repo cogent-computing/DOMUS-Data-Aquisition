@@ -9,8 +9,8 @@ The initial approach was using MAX31850 amplifiers for the thermocouples and a l
 The *DOMUS_1Wire_ByAddress* example is ment to run this version. The 1Wire connection and Library was tested with a 3.3v chip, the *Blend Micro* and that worked fine.
 
 # Running the code
-⋅⋅* Copy the libraries if you don't have them to your Arduino IDE library location.
-⋅⋅* Open the *DOMUS_MAIN* Sketch, compile and upload to the board, it should now be saving files to the sdCard provided everything is connected and set up correctly.
+* Copy the libraries if you don't have them to your Arduino IDE library location.
+* Open the *DOMUS_MAIN* Sketch, compile and upload to the board, it should now be saving files to the sdCard provided everything is connected and set up correctly.
 
 # Progress
 At this point everything works except the temperature sensors. Chaning these for the MAX31855 5v compatible SPi ones might fix the problem. 
