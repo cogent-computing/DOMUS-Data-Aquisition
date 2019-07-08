@@ -12,8 +12,9 @@ The *DOMUS_1Wire_ByAddress* example is ment to run this version. The 1Wire conne
 * Copy the libraries if you don't have them to your Arduino IDE library location.
 * Open the *DOMUS_MAIN* Sketch, compile and upload to the board, it should now be saving files to the sdCard provided everything is connected and set up correctly.
 
+
 # Progress
-At this point everything works except the temperature sensors. Chaning these for the MAX31855 5v compatible SPi ones might fix the problem. 
+At this point everything works except the temperature sensors. Chaning these for the MAX31855 5v compatible SPi ones might fix the problem. The *Ardu_Serial_Low_to_high_test* sketch contains the UART test between the two, that didn't work either. 
 
 # Connections and Schematics
 An initial version of the connections and schematics can be found in the file *Board Connections.fzz*.
