@@ -18,3 +18,5 @@ At this point everything works except the temperature sensors. Chaning these for
 
 # Connections and Schematics
 An initial version of the connections and schematics can be found in the file *Board Connections.fzz*.
+
+[![DOI](https://zenodo.org/badge/195751775.svg)](https://zenodo.org/badge/latestdoi/195751775)
